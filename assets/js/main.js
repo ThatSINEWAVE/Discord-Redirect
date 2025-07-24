@@ -4,13 +4,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Set timeout for redirect
     setTimeout(() => {
-        window.location.href = 'https://discord.gg/UtRyxrbbFG';
+        window.location.href = 'https://discord.gg/s9Wgr4QTg6';
     }, 5000); // 5000 milliseconds = 5 seconds
 });
 
 async function fetchDiscordStats() {
     try {
-        const response = await fetch('https://discord.com/api/v9/invites/UtRyxrbbFG?with_counts=true');
+        const response = await fetch('https://discord.com/api/v9/invites/s9Wgr4QTg6?with_counts=true');
         const data = await response.json();
 
         if (data.approximate_member_count && data.approximate_presence_count) {
