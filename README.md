@@ -17,7 +17,7 @@ A sleek, interactive landing page that showcases your Discord server with animat
 
 <div align="center">
 
-# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://thatsinewave.github.io/Discord-Redirect/)
 
 </div>
 
