@@ -1,0 +1,26 @@
+{
+  "name": "Discord Redirect by ThatSINEWAVE",
+  "description": "Simple web application that allows users to scan QR codes using their device's camera or upload images to scan for QR codes.",
+  "short_name": "Discord Redirect",
+  "start_url": "/Discord-Redirect",
+  "orientation": "portrait",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "site-data/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "site-data/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "site-data/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
